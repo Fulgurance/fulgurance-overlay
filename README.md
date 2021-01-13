@@ -18,3 +18,4 @@ overlays managed by Layman).
 
 - app-laptop/msi-keyboard
 - dev-lang/fasm-bin
+- dev-lang/fasmg-bin (just ebuild files added actually, but the ebuild don't work)
