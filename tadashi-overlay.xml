@@ -5,7 +5,7 @@
    <description>Tadashi Gentoo Overlay</description>
    <homepage>https://github.com/TadashiComputer/tadashi-overlay</homepage>
    <owner>
-       <email>contact@tadashi.co.uk</email>
+       <email>zohran.londais@gmail.com</email>
        <name>Tadashi</name>
    </owner>
    <source type="git">https://github.com/TadashiComputer/tadashi-overlay.git</source>
