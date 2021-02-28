@@ -1,4 +1,4 @@
-# fulgurance-overlay
+# tadashi-overlay
 
 ## Info
 
@@ -10,8 +10,8 @@ add and use this overlay with Portage.
 #### Adding using Layman
 
 To add this overlay to Portage using `layman`, run `layman -o 
-https://github.com/fulgurance/fulgurance-overlay/raw/master/fulgurance-overlay.xml -f -a fulgurance-overlay`. 
-To update the repository, run `layman -s fulgurance-overlay` (or `layman -S` to update all the installed 
+https://github.com/TadashiComputer/tadashi-overlay/raw/master/tadashi-overlay.xml -f -a tadashi-overlay`. 
+To update the repository, run `layman -s tadashi-overlay` (or `layman -S` to update all the installed 
 overlays managed by Layman).
 
 ## Available ebuilds
