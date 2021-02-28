@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<repositories version="1.0">
+<repo priority="50" quality="experimental" status="unofficial">
+   <name>tadashi-overlay</name>
+   <description>Tadashi Gentoo Overlay</description>
+   <homepage>https://github.com/TadashiComputer/tadashi-overlay</homepage>
+   <owner>
+       <email>contact@tadashi.co.uk</email>
+       <name>Tadashi</name>
+   </owner>
+   <source type="git">https://github.com/TadashiComputer/tadashi-overlay.git</source>
+</repo>
+</repositories>
