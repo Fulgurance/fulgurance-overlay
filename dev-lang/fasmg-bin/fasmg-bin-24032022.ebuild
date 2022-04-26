@@ -10,6 +10,7 @@ SRC_URI="https://flatassembler.net/fasmg.jmhx.zip -> ${P}.zip"
 LICENSE="FASM"
 SLOT="0"
 KEYWORDS="~amd64"
+BDEPEND="app-arch/unzip"
 
 FASM_PN="${PN/-bin}"
 S="${WORKDIR}/${FASM_PN}"

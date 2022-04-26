@@ -1,0 +1,10 @@
+BDEPEND=app-arch/unzip
+DEFINED_PHASES=install
+DESCRIPTION=Assembly engine, a successor of the one used in flat assembler 1
+EAPI=7
+HOMEPAGE=https://flatassembler.net/
+KEYWORDS=~amd64
+LICENSE=FASM
+SLOT=0
+SRC_URI=https://flatassembler.net/fasmg.jmhx.zip -> fasmg-bin-24032022.zip
+_md5_=74e6f649725f460eb9990f93ba51db23

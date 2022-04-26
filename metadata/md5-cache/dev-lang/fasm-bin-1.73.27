@@ -1,0 +1,9 @@
+DEFINED_PHASES=install
+DESCRIPTION=Flat Assembler for the x86 architecture processors
+EAPI=7
+HOMEPAGE=https://flatassembler.net/
+KEYWORDS=~amd64
+LICENSE=FASM
+SLOT=0
+SRC_URI=https://flatassembler.net/fasm-1.73.27.tgz -> fasm-bin-1.73.27.tgz
+_md5_=76515daa635462e4b2364a08c3fbe1c2
