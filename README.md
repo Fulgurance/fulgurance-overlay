@@ -17,4 +17,4 @@ overlays managed by Layman).
 ## Available ebuilds
 
 - dev-lang/fasm-bin
-- dev-lang/fasmg-bin (just ebuild files added actually, but the ebuild don't work)
+- dev-lang/fasmg-bin
