@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <repositories version="1.0">
 <repo priority="50" quality="experimental" status="unofficial">
-   <name>tadashi-overlay</name>
-   <description>Tadashi Gentoo Overlay</description>
-   <homepage>https://github.com/TadashiComputer/tadashi-overlay</homepage>
+   <name>fulgurance-overlay</name>
+   <description>Fulgurance Gentoo Overlay</description>
+   <homepage>https://github.com/Fulgurance/fulgurance-overlay</homepage>
    <owner>
        <email>zohran.londais@gmail.com</email>
-       <name>Tadashi</name>
+       <name>Fulgurance</name>
    </owner>
-   <source type="git">https://github.com/TadashiComputer/tadashi-overlay.git</source>
+   <source type="git">https://github.com/Fulgurance/fulgurance-overlay.git</source>
 </repo>
 </repositories>

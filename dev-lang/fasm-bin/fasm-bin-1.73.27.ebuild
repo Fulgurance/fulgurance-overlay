@@ -3,9 +3,9 @@
 
 EAPI=7
 
-DESCRIPTION="Assembly engine, a successor of the one used in flat assembler 1"
+DESCRIPTION="Flat Assembler for the x86 architecture processors"
 HOMEPAGE="https://flatassembler.net/"
-SRC_URI="https://flatassembler.net/fasmg.${PV}.zip -> ${P}.zip"
+SRC_URI="https://flatassembler.net/fasm-${PV}.tgz -> ${P}.tgz"
 
 LICENSE="FASM"
 SLOT="0"
@@ -13,8 +13,8 @@ KEYWORDS="~amd64"
 
 FASM_PN="${PN/-bin}"
 S="${WORKDIR}/${FASM_PN}"
-QA_PREBUILT="/usr/bin/fasmg"
+QA_PREBUILT="/usr/bin/fasm"
 
 src_install() {
-	newbin fasmg.x64 fasmg
+	newbin fasm.x64 fasm
 }
