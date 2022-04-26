@@ -13,7 +13,7 @@ KEYWORDS="~amd64"
 BDEPEND="app-arch/unzip"
 
 FASM_PN="${PN/-bin}"
-S="${WORKDIR}/${FASM_PN}"
+S="${WORKDIR}/"
 QA_PREBUILT="/usr/bin/fasmg"
 
 src_install() {

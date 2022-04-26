@@ -7,4 +7,4 @@ KEYWORDS=~amd64
 LICENSE=FASM
 SLOT=0
 SRC_URI=https://flatassembler.net/fasmg.jmhx.zip -> fasmg-bin-24032022.zip
-_md5_=74e6f649725f460eb9990f93ba51db23
+_md5_=35c04b33bcef88a09ae5b80fef36ee5c
